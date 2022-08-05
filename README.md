@@ -11,7 +11,6 @@ A page that retrieves data from images of foxes and dogs (API) 🐶 🦊
 
 # Demo
 
-🔗 https://get-dog-fox.netlify.app/
 
 
 
